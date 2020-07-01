@@ -46,6 +46,18 @@ flutter:
   assets:
     - assets/LCOWORKOUTLOGO.png
     - assets/LCOWORKOUTLOGOtransparent.png
+    - assets/backRows.png
+    - assets/benchPress.png
+    - assets/benchPress2.png
+    - assets/bicepsCurls.png
+    - assets/crunches.png
+    - assets/crunches2.png
+    - assets/declineBenchPress.png
+    - assets/dumblePushUp.png
+    - assets/pushUps.png
+    - assets/sideTwist.png
+    - assets/tricipes.png
+    - assets/vrikshAsanas.png
   # An image asset can refer to one or more resolution-specific "variants", see
   # https://flutter.dev/assets-and-images/#resolution-aware.
   # For details regarding adding assets from package dependencies, see
